@@ -5,3 +5,4 @@ avengers
 fighter
 javan
 mogli
+manchav
